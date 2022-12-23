@@ -1,1 +1,1 @@
-aquaproj/aqua-registry,f83e6465256285517e393b149e0458b3cbee7928,v3.106.0
+aquaproj/aqua-registry,215b5f5aaaf9d1337b93780c13202e1434ed2c98,v3.107.0
