@@ -11,7 +11,7 @@
       "matchStrings": [
         "(?<depName>[^,]+),(?<currentDigest>[^,]+?),(?<currentValue>[^,]+?)\\n"
       ],
-      "datasourceTemplate": "github-releases"
+      "datasourceTemplate": "github-tags"
     }
   ]
 }
